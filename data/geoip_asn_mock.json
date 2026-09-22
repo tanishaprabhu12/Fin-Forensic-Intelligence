@@ -1,0 +1,114 @@
+{
+  "AS15169": {
+    "org": "Google LLC",
+    "country": "US",
+    "city": "Mountain View",
+    "tier": "LOW_RISK",
+    "is_tor": false,
+    "is_bulletproof": false
+  },
+  "AS16509": {
+    "org": "Amazon.com, Inc.",
+    "country": "US",
+    "city": "Seattle",
+    "tier": "LOW_RISK",
+    "is_tor": false,
+    "is_bulletproof": false
+  },
+  "AS13335": {
+    "org": "Cloudflare, Inc.",
+    "country": "US",
+    "city": "San Francisco",
+    "tier": "LOW_RISK",
+    "is_tor": false,
+    "is_bulletproof": false
+  },
+  "AS32934": {
+    "org": "Meta Platforms, Inc.",
+    "country": "US",
+    "city": "Menlo Park",
+    "tier": "LOW_RISK",
+    "is_tor": false,
+    "is_bulletproof": false
+  },
+  "AS24940": {
+    "org": "Hetzner Online GmbH",
+    "country": "DE",
+    "city": "Gunzenhausen",
+    "tier": "MEDIUM_RISK",
+    "is_tor": false,
+    "is_bulletproof": false
+  },
+  "AS16276": {
+    "org": "OVH SAS",
+    "country": "FR",
+    "city": "Roubaix",
+    "tier": "MEDIUM_RISK",
+    "is_tor": false,
+    "is_bulletproof": false
+  },
+  "AS9009": {
+    "org": "M247 Ltd (Bulletproof Host)",
+    "country": "RO",
+    "city": "Bucharest",
+    "tier": "CRITICAL_RISK",
+    "is_tor": false,
+    "is_bulletproof": true
+  },
+  "AS60781": {
+    "org": "LeaseWeb Netherlands (Proxy Hub)",
+    "country": "NL",
+    "city": "Amsterdam",
+    "tier": "HIGH_RISK",
+    "is_tor": true,
+    "is_bulletproof": false
+  },
+  "AS200052": {
+    "org": "Stark Industries VPN / Darknet",
+    "country": "SC",
+    "city": "Victoria",
+    "tier": "CRITICAL_RISK",
+    "is_tor": true,
+    "is_bulletproof": true
+  },
+  "AS206980": {
+    "org": "Flokinet Iceland Offshore",
+    "country": "IS",
+    "city": "Reykjavik",
+    "tier": "HIGH_RISK",
+    "is_tor": false,
+    "is_bulletproof": true
+  },
+  "AS4837": {
+    "org": "China Unicom Beijing",
+    "country": "CN",
+    "city": "Beijing",
+    "tier": "MEDIUM_RISK",
+    "is_tor": false,
+    "is_bulletproof": false
+  },
+  "AS209": {
+    "org": "CenturyLink Communications",
+    "country": "US",
+    "city": "Monroe",
+    "tier": "LOW_RISK",
+    "is_tor": false,
+    "is_bulletproof": false
+  },
+  "AS5607": {
+    "org": "Sky UK Limited Residential",
+    "country": "GB",
+    "city": "London",
+    "tier": "LOW_RISK",
+    "is_tor": false,
+    "is_bulletproof": false
+  },
+  "AS7922": {
+    "org": "Comcast Cable Communications",
+    "country": "US",
+    "city": "Philadelphia",
+    "tier": "LOW_RISK",
+    "is_tor": false,
+    "is_bulletproof": false
+  }
+}
